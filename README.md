@@ -1,2 +1,17 @@
-# Healthcare-NoShow-Prediction
-Machine Learning project predicting healthcare appointment no-shows using Logistic Regression, Random Forest, and XGBoost.
+# Healthcare Appointment No-Show Prediction
+
+## Business Problem
+
+## Dataset
+
+## Methodology
+
+## Feature Engineering
+
+## Model Comparison
+
+## Results
+
+## Key Findings
+
+## Business Recommendations
